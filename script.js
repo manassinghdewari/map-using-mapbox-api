@@ -20,7 +20,7 @@
         container: 'map',
         style: 'mapbox://styles/mapbox/streets-v11', //style means type of map for exp in this it is steet map.
         center:center,
-        zoom:16     //it is zoom lavel it means more zoom then more deep map picture
+        zoom:18    //it is zoom lavel it means more zoom then more deep map picture
     });
     // const nav = new mapboxgl.NavigationControl();     //for adding zoom in-out buttons
     // map.addControl(nav);
